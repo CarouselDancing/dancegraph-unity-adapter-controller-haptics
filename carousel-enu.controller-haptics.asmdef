@@ -1,8 +1,16 @@
 {
 	"name": "carousel-enu.controller-haptics",
     "references": [
+		"DanceGraph.ControllerHapticsManager",
+		"DanceGraph.ControllerHaptics",
 		"UnityEngine.XR.Interaction.Toolkit"
     ],
-	"autoReferenced" : true,
+	"includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
 	"noEngineReferences" : false
 }
