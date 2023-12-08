@@ -1,0 +1,7 @@
+{
+  "name": "com.carousel-enu.controller-haptics",
+  "version": "1.0.0",
+  "displayName": "Controller Haptics",
+  "description": "Enables selective haptics when controllers interact with objects other than an owning avatar",
+  "licensesUrl": "https://choosealicense.com/licenses/mit/"
+}
