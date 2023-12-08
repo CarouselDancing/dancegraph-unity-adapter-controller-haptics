@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "displayName": "Controller Haptics",
   "description": "Enables selective haptics when controllers interact with objects other than an owning avatar",
-  "licensesUrl": "https://choosealicense.com/licenses/mit/"
+  "licensesUrl": "https://choosealicense.com/licenses/mit/",
+  "dependencies":{
+	  "com.unity.xr.interaction.toolkit": "2.5.1",
+	  "com.unity.xr.openxr" : "1.8.2"
+  }
 }

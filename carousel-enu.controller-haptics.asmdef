@@ -1,0 +1,8 @@
+{
+	"name": "carousel-enu.controller-haptics",
+    "references": [
+		"UnityEngine.XR.Interaction.Toolkit"
+    ],
+	"autoReferenced" : true,
+	"noEngineReferences" : false
+}
